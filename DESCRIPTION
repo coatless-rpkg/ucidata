@@ -1,6 +1,6 @@
 Package: ucidata
 Title: Collection of Datasets from the UCI Irving Machine Learning Repository
-Version: 0.0.1
+Version: 0.0.2
 Authors@R: person("James", "Balamuta", email = "balamut2@illinois.edu", role = c("aut", "cre"))
 Description: Varying datasets from the UCI Irving Machine Learning Repository
 Depends: R (>= 3.4.1)
