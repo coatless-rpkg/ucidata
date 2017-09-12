@@ -53,10 +53,12 @@ Included Data Sets
 
 The following data sets are included in the `ucidata` package:
 
--   [`wine`](https://archive.ics.uci.edu/ml/datasets/wine)
+-   [`abalone`](https://archive.ics.uci.edu/ml/datasets/abalone)
 -   [`autompg`](https://archive.ics.uci.edu/ml/datasets/auto+mpg)
 -   [`bike_sharing_daily`](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset)
--   Wisconsin Breast Cancer Trials: [`bcw_original` (Breast Cancer Wisconsin Original)](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset)
+-   Breast Cancer Wisconsin:
+    -   [`bcw_original` (Breast Cancer Wisconsin Original)](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset)
+-   [`wine`](https://archive.ics.uci.edu/ml/datasets/wine)
 
 Build Scripts
 -------------
