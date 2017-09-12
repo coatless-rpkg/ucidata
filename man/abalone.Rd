@@ -65,5 +65,9 @@ location (hence food availability) may be required to solve the problem.
 Warwick J Nash, Tracy L Sellers, Simon R Talbot, Andrew J Cawthorn and Wes B Ford (1994)
 "The Population Biology of Abalone (\emph{Haliotis} species) in Tasmania. I. Blacklip Abalone (\emph{H. rubra}) from the North Coast and Islands of Bass Strait",
 Sea Fisheries Division, Technical Report No. 48 (ISSN 1034-3288)
+
+\url{https://archive.ics.uci.edu/ml/machine-learning-databases/abalone/}
+
+\url{https://archive.ics.uci.edu/ml/datasets/abalone}
 }
 \keyword{datasets}

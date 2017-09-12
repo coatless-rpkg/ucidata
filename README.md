@@ -54,6 +54,7 @@ Included Data Sets
 The following data sets are included in the `ucidata` package:
 
 -   [`abalone`](https://archive.ics.uci.edu/ml/datasets/abalone)
+-   [`adult`](https://archive.ics.uci.edu/ml/datasets/adult)
 -   [`autompg`](https://archive.ics.uci.edu/ml/datasets/auto+mpg)
 -   [`bike_sharing_daily`](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset)
 -   Breast Cancer Wisconsin:
