@@ -10,7 +10,8 @@ autoimports = read.csv(url_autoimports,
 # Columns taken verbatim from ML page
 # Regex search with: [0-9]{1,2}\. (.*):.*
 # Replacement: "\1",
-colnames(autoimports) = c(
+
+var_names = c(
   "symboling",
   "normalized-losses",
   "make",
@@ -39,6 +40,10 @@ colnames(autoimports) = c(
   "price"
 )
 
-devtools::use_data(autoimports)
+var_names_safe = gsub("-", "_", var_names)
+
+colnames(autoimports) = var_names_safe
+
+devtools::use_data(autoimports, overwrite = TRUE)
 
 

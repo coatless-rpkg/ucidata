@@ -10,7 +10,7 @@
 \itemize{
 \item -3, -2, -1, 0, 1, 2, 3.
 }
-\item \code{normalized-losses}:
+\item \code{normalized_losses}:
 \itemize{
 \item continuous from 65 to 256.
 }
@@ -21,7 +21,7 @@ jaguar, mazda, mercedes-benz, mercury, mitsubishi, nissan,
 peugot, plymouth, porsche, renault, saab, subaru, toyota, volkswagen,
 volvo
 }
-\item \code{fuel-type}:
+\item \code{fuel_type}:
 \itemize{
 \item diesel, gas.
 }
@@ -29,23 +29,23 @@ volvo
 \itemize{
 \item std, turbo.
 }
-\item \code{num-of-doors}:
+\item \code{num_of_doors}:
 \itemize{
 \item four, two.
 }
-\item \code{body-style}:
+\item \code{body_style}:
 \itemize{
 \item hardtop, wagon, sedan, hatchback, convertible.
 }
-\item \code{drive-wheels}:
+\item \code{drive_wheels}:
 \itemize{
 \item 4wd, fwd, rwd.
 }
-\item \code{engine-location}:
+\item \code{engine_location}:
 \itemize{
 \item front, rear.
 }
-\item \code{wheel-base}:
+\item \code{wheel_base}:
 \itemize{
 \item continuous from 86.6 120.9.
 }
@@ -61,23 +61,23 @@ volvo
 \itemize{
 \item continuous from 47.8 to 59.8.
 }
-\item \code{curb-weight}:
+\item \code{curb_weight}:
 \itemize{
 \item continuous from 1488 to 4066.
 }
-\item \code{engine-type}:
+\item \code{engine_type}:
 \itemize{
 \item dohc, dohcv, l, ohc, ohcf, ohcv, rotor.
 }
-\item \code{num-of-cylinders}:
+\item \code{num_of_cylinders}:
 \itemize{
 \item eight, five, four, six, three, twelve, two.
 }
-\item \code{engine-size}:
+\item \code{engine_size}:
 \itemize{
 \item continuous from 61 to 326.
 }
-\item \code{fuel-system}:
+\item \code{fuel_system}:
 \itemize{
 \item 1bbl, 2bbl, 4bbl, idi, mfi, mpfi, spdi, spfi.
 }
@@ -89,7 +89,7 @@ volvo
 \itemize{
 \item continuous from 2.07 to 4.17.
 }
-\item \code{compression-ratio}:
+\item \code{compression_ratio}:
 \itemize{
 \item continuous from 7 to 23.
 }
@@ -97,15 +97,15 @@ volvo
 \itemize{
 \item continuous from 48 to 288.
 }
-\item \code{peak-rpm}:
+\item \code{peak_rpm}:
 \itemize{
 \item continuous from 4150 to 6600.
 }
-\item \code{city-mpg}:
+\item \code{city_mpg}:
 \itemize{
 \item continuous from 13 to 49.
 }
-\item \code{highway-mpg}:
+\item \code{highway_mpg}:
 \itemize{
 \item continuous from 16 to 54.
 }
