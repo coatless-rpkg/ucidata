@@ -57,9 +57,10 @@ The following data sets are included in the `ucidata` package:
 -   [`adult`](https://archive.ics.uci.edu/ml/datasets/adult)
 -   [`autoimports`](https://archive.ics.uci.edu/ml/datasets/Automobile)
 -   [`autompg`](https://archive.ics.uci.edu/ml/datasets/auto+mpg)
--   [`bike_sharing_daily`](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset)
 -   Breast Cancer Wisconsin:
     -   [`bcw_original` (Breast Cancer Wisconsin Original)](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset)
+-   [`bike_sharing_daily`](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset)
+-   [`bridges`](https://archive.ics.uci.edu/ml/datasets/Pittsburgh+Bridges)
 -   [`wine`](https://archive.ics.uci.edu/ml/datasets/wine)
 
 Build Scripts
