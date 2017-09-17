@@ -7,8 +7,8 @@ adult = read.csv('https://archive.ics.uci.edu/ml/machine-learning-databases/adul
 colnames(adult) = c('age',
                     'workclass',
                     'fnlwgt',
-                    'educatoin',
-                    'educatoin_num',
+                    'education',
+                    'education_num',
                     'marital_status',
                     'occupation',
                     'relationship',
@@ -20,4 +20,4 @@ colnames(adult) = c('age',
                     'native_country',
                     'income')
 
-devtools::use_data(adult)
+devtools::use_data(adult, overwrite = TRUE)
