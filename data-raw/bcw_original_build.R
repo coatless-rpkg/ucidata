@@ -1,4 +1,4 @@
-### UCI Irving
+### UCI Irvine
 ## Breast Cancer Wisonsin (Original) Data https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original)
 
 url_breast_cancer = "http://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/breast-cancer-wisconsin.data"

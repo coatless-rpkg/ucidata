@@ -1,4 +1,4 @@
-### UCI Irving
+### UCI Irvine
 ## autompg Data https://archive.ics.uci.edu/ml/datasets/auto+mpg
 
 autompg = read.table(

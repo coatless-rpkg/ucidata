@@ -1,4 +1,4 @@
-## UCI Data
+### UCI Irvine
 # Hepatitis Data http://archive.ics.uci.edu/ml/machine-learning-databases/hepatitis/hepatitis.data
 
 url_hepatitis = "http://archive.ics.uci.edu/ml/machine-learning-databases/hepatitis/hepatitis.data"

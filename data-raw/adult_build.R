@@ -1,4 +1,4 @@
-## UCI Data
+### UCI Irvine
 # Adult data https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data
 
 adult = read.csv('https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data',

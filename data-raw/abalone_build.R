@@ -1,5 +1,5 @@
-### UCI Irving
-## Wine Data https://archive.ics.uci.edu/ml/datasets/wine
+### UCI Irvine
+## Abalone Data https://archive.ics.uci.edu/ml/datasets/Abalone
 
 url_abalone = "http://archive.ics.uci.edu/ml/machine-learning-databases/abalone/abalone.data"
 

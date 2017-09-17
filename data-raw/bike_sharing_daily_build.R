@@ -1,4 +1,4 @@
-### UCI Irving
+### UCI Irvine
 ## Bike Sharing (Daily) Data https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
 
 # Download the zip file

@@ -1,4 +1,4 @@
-### UCI Irving
+### UCI Irvine
 ## Wine Data https://archive.ics.uci.edu/ml/datasets/wine
 
 # Location of Data Sets
