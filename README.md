@@ -2,10 +2,10 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 [![Travis-CI Build Status](https://travis-ci.org/coatless/ucidata.svg?branch=master)](https://travis-ci.org/coatless/ucidata)[![CRAN RStudio mirror downloads](http://cranlogs.r-pkg.org/badges/ucidata)](http://www.r-pkg.org/pkg/ucidata) [![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/ucidata)](https://cran.r-project.org/package=ucidata)
 
-`ucidata` - Data Sets from UC Irving's ML Library
+`ucidata` - Data Sets from UC Irvine's ML Library
 =================================================
 
-The following is an *R* data package that features certain data sets from the [Machine Learning Library at UC Irving](https://archive.ics.uci.edu/ml/) These data sets have been cleaned up and provide documentation via *R*'s help system.
+The following is an *R* data package that features certain data sets from the [Machine Learning Library at UC Irvine](https://archive.ics.uci.edu/ml/) These data sets have been cleaned up and provide documentation via *R*'s help system.
 
 Installation
 ------------
@@ -61,6 +61,7 @@ The following data sets are included in the `ucidata` package:
     -   [`bcw_original` (Breast Cancer Wisconsin Original)](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset)
 -   [`bike_sharing_daily`](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset)
 -   [`bridges`](https://archive.ics.uci.edu/ml/datasets/Pittsburgh+Bridges)
+-   [`glass`](https://archive.ics.uci.edu/ml/datasets/Glass+Identification)
 -   [`hepatitis`](https://archive.ics.uci.edu/ml/datasets/hepatitis)
 -   [`wine`](https://archive.ics.uci.edu/ml/datasets/wine)
 
