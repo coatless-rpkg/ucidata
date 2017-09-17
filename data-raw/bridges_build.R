@@ -30,7 +30,6 @@ colnames(bridges) = gsub("-", "_", tolower(var_names))
 
 # Switch from numeric to factor:
 bridges = within(bridges, {
-  erected = factor(erected)
   lanes = factor(lanes)
 })
 
