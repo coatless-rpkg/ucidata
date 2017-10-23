@@ -61,6 +61,7 @@ The following data sets are included in the `ucidata` package:
     -   [`bcw_original` (Breast Cancer Wisconsin Original)](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset)
 -   [`bike_sharing_daily`](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset)
 -   [`bridges`](https://archive.ics.uci.edu/ml/datasets/Pittsburgh+Bridges)
+-   [`car_eval`](https://archive.ics.uci.edu/ml/datasets/Car+Evaluation)
 -   [`glass`](https://archive.ics.uci.edu/ml/datasets/Glass+Identification)
 -   [`hepatitis`](https://archive.ics.uci.edu/ml/datasets/hepatitis)
 -   [`wine`](https://archive.ics.uci.edu/ml/datasets/wine)
