@@ -7,7 +7,7 @@
 #' - `identif`
 #'     - identifier of the examples
 #' - `river`
-#'     - A, M, O
+#'     - A, M, O, Y
 #' - `location`
 #'     - Location of Bridge
 #' - `erected`

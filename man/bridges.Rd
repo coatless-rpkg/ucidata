@@ -12,7 +12,7 @@
 }
 \item \code{river}
 \itemize{
-\item A, M, O
+\item A, M, O, Y
 }
 \item \code{location}
 \itemize{
