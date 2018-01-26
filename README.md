@@ -2,8 +2,8 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 [![Travis-CI Build
-Status](https://travis-ci.org/coatless/ucidata.svg?branch=master)](https://travis-ci.org/coatless/ucidata)[![CRAN
-RStudio mirror
+Status](https://travis-ci.org/coatless/ucidata.svg?branch=master)](https://travis-ci.org/coatless/ucidata)
+[![CRAN RStudio mirror
 downloads](http://cranlogs.r-pkg.org/badges/ucidata)](http://www.r-pkg.org/pkg/ucidata)
 [![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/ucidata)](https://cran.r-project.org/package=ucidata)
 
@@ -11,7 +11,7 @@ downloads](http://cranlogs.r-pkg.org/badges/ucidata)](http://www.r-pkg.org/pkg/u
 
 The following is an *R* data package that features certain data sets
 from the [Machine Learning Library at UC
-Irvine](https://archive.ics.uci.edu/ml/) These data sets have been
+Irvine](https://archive.ics.uci.edu/ml/). These data sets have been
 cleaned up and provide documentation via *R*’s help system.
 
 ## Installation
