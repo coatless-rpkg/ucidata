@@ -6,10 +6,18 @@
 \alias{ucidata-package}
 \title{ucidata: Collection of Datasets from the UC Irvine Machine Learning Repository}
 \description{
-In this package, there are select datasets from the UC Irvine
-Machine Learning Repository. To be included within this package, the
-data sets had to conform to being reasonable in size while also allowing
-for a wide variety of visualizations and models to be formed.
+Select datasets from the UC Irvine
+Machine Learning Repository that conform to being reasonable in
+size while also allowing for a wide variety of visualizations and models
+to be formed.
+}
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/coatless/ucidata}
+  \item Report bugs at \url{https://github.com/coatless/ucidata/issues}
+}
+
 }
 \author{
 \strong{Maintainer}: James Balamuta \email{balamut2@illinois.edu}

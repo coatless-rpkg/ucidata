@@ -2,12 +2,14 @@ Package: ucidata
 Title: Collection of Datasets from the UC Irvine Machine Learning Repository
 Version: 0.0.3
 Authors@R: person("James", "Balamuta", email = "balamut2@illinois.edu", role = c("aut", "cre"))
-Description: In this package, there are select datasets from the UC Irvine 
-    Machine Learning Repository. To be included within this package, the 
-    data sets had to conform to being reasonable in size while also allowing
-    for a wide variety of visualizations and models to be formed.
+Description: Select datasets from the UC Irvine 
+    Machine Learning Repository that conform to being reasonable in 
+    size while also allowing for a wide variety of visualizations and models
+    to be formed.
 Depends: R (>= 3.0.0)
 License: GPL (>= 2)
+URL: https://github.com/coatless/ucidata
+BugReports: https://github.com/coatless/ucidata/issues
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
