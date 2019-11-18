@@ -45,7 +45,7 @@ etc. Also, we plot the relative importances of the input variables (as measured 
 analysis procedure).
 }
 \references{
-\url{https://archive.ics.uci.edu/ml/machine-learning-databases/wine/wine.names}
-\url{https://archive.ics.uci.edu/ml/datasets/wine}
+\url{https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality.names}
+\url{https://archive.ics.uci.edu/ml/datasets/Wine+Quality}
 }
 \keyword{datasets}
