@@ -6,10 +6,10 @@
 \alias{ucidata-package}
 \title{ucidata: Collection of Datasets from the UC Irvine Machine Learning Repository}
 \description{
-Select datasets from the UC Irvine
-Machine Learning Repository that conform to being reasonable in
-size while also allowing for a wide variety of visualizations and models
-to be formed.
+Select datasets from the UC Irvine 
+    Machine Learning Repository that conform to being reasonable in 
+    size while also allowing for a wide variety of visualizations and models
+    to be formed.
 }
 \seealso{
 Useful links:
