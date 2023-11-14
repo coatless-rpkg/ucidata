@@ -12,11 +12,11 @@ knitr::opts_chunk$set(
 )
 ```
 
-[![Travis-CI Build Status](https://travis-ci.org/coatless/ucidata.svg?branch=master)](https://travis-ci.org/coatless/ucidata)
-[![CRAN RStudio mirror downloads](http://cranlogs.r-pkg.org/badges/ucidata)](http://www.r-pkg.org/pkg/ucidata) 
-[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/ucidata)](https://cran.r-project.org/package=ucidata)
-
 # `ucidata` - Data Sets from UC Irvine's ML Library 
+
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/coatless-rpkg/ucidata/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/coatless-rpkg/ucidata/actions/workflows/R-CMD-check.yaml)
+<!-- badges: end -->
 
 The following is an _R_ data package that features certain data sets from 
 the [Machine Learning Library at UC Irvine](https://archive.ics.uci.edu/ml/).
@@ -27,8 +27,8 @@ These data sets have been cleaned up and provide documentation via _R_'s help sy
 You can install `ucidata` from github with:
 
 ```{r gh-installation, eval = FALSE}
-# install.packages("devtools")
-devtools::install_github("coatless/ucidata")
+# install.packages("remotes")
+remotes::install_github("coatless-rpkg/ucidata")
 ```
 
 ## Using data in the package
@@ -92,4 +92,4 @@ The following data sets are included in the `ucidata` package:
 
 ## Build Scripts
 
-Want to see how each data set was imported? Check out the [`data-raw`](https://github.com/coatless/ucidata/tree/master/data-raw) folder!
+Want to see how each data set was imported? Check out the [`data-raw`](https://github.com/coatless-rpkg/ucidata/tree/master/data-raw) folder!

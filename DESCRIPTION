@@ -8,9 +8,9 @@ Description: Select datasets from the UC Irvine
     to be formed.
 Depends: R (>= 3.0.0)
 License: GPL (>= 2)
-URL: https://github.com/coatless/ucidata
-BugReports: https://github.com/coatless/ucidata/issues
+URL: https://github.com/coatless-rpkg/ucidata, http://r-pkg.thecoatlessprofessor.com/ucidata/
+BugReports: https://github.com/coatless-rpkg/ucidata/issues
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 6.1.1
+RoxygenNote: 7.2.3
