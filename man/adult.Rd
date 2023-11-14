@@ -4,7 +4,8 @@
 \name{adult}
 \alias{adult}
 \title{Adult Data Set}
-\format{A data frame with 32561 observations on the following 15 variables.
+\format{
+A data frame with 32561 observations on the following 15 variables.
 \itemize{
 \item \code{age}: Integer
 \itemize{
@@ -82,7 +83,8 @@ Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holand-Netherlands.
 \item Whether the income greater than $50,000 or not.
 \item <=50K, >50K
 }
-}}
+}
+}
 \source{
 Ronny Kohavi and Barry Becker
 Data Mining and Visualization

@@ -4,7 +4,8 @@
 \name{autoimports}
 \alias{autoimports}
 \title{Autoimports Dataset}
-\format{A data frame with 205 observations on the following 26 variables.
+\format{
+A data frame with 205 observations on the following 26 variables.
 \itemize{
 \item \code{symboling}:
 \itemize{
@@ -113,7 +114,8 @@ volvo
 \itemize{
 \item continuous from 5118 to 45400.
 }
-}}
+}
+}
 \source{
 Donor: Jeffrey C. Schlimmer (Jeffrey.Schlimmer@a.gp.cs.cmu.edu)
 

@@ -4,7 +4,8 @@
 \name{wine}
 \alias{wine}
 \title{Wine Data Set}
-\format{A data frame with 6497 observations (1599 Red and 4898 White) on the following 12 variables.
+\format{
+A data frame with 6497 observations (1599 Red and 4898 White) on the following 12 variables.
 \itemize{
 \item fixed acidity
 \item volatile acidity
@@ -25,7 +26,8 @@
 \itemize{
 \item \code{"White"} or \code{"Red"}
 }
-}}
+}
+}
 \source{
 P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis.
 Modeling wine preferences by data mining from physicochemical properties.

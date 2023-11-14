@@ -4,7 +4,8 @@
 \name{bike_sharing_daily}
 \alias{bike_sharing_daily}
 \title{Bike Sharing (Daily) Data Set}
-\format{A data frame with 731 observations on the following 16 variables.
+\format{
+A data frame with 731 observations on the following 16 variables.
 \itemize{
 \item \code{instant}: Record index
 \item \code{dteday}:     Date
@@ -124,7 +125,8 @@
 \itemize{
 \item Count of total rental bikes including both casual and registered
 }
-}}
+}
+}
 \source{
 Hadi Fanaee-T
 

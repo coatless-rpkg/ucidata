@@ -6,16 +6,14 @@
 \alias{ucidata-package}
 \title{ucidata: Collection of Datasets from the UC Irvine Machine Learning Repository}
 \description{
-Select datasets from the UC Irvine 
-    Machine Learning Repository that conform to being reasonable in 
-    size while also allowing for a wide variety of visualizations and models
-    to be formed.
+Select datasets from the UC Irvine Machine Learning Repository that conform to being reasonable in size while also allowing for a wide variety of visualizations and models to be formed.
 }
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://github.com/coatless/ucidata}
-  \item Report bugs at \url{https://github.com/coatless/ucidata/issues}
+  \item \url{https://github.com/coatless-rpkg/ucidata}
+  \item \url{http://r-pkg.thecoatlessprofessor.com/ucidata/}
+  \item Report bugs at \url{https://github.com/coatless-rpkg/ucidata/issues}
 }
 
 }

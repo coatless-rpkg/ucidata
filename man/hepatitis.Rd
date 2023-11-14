@@ -4,7 +4,8 @@
 \name{hepatitis}
 \alias{hepatitis}
 \title{Hepatitis Data Set}
-\format{A data frame with 6497 observations (1599 Red and 4898 White) on the following 12 variables.
+\format{
+A data frame with 6497 observations (1599 Red and 4898 White) on the following 12 variables.
 \itemize{
 \item \code{class}
 \itemize{
@@ -87,7 +88,8 @@
 \itemize{
 \item No, Yes
 }
-}}
+}
+}
 \source{
 G.Gong (Carnegie-Mellon University) via
 Bojan Cestnik

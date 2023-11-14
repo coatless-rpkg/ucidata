@@ -4,7 +4,8 @@
 \name{bcw_original}
 \alias{bcw_original}
 \title{Breast Cancer Wisconsin (Original) Data Set}
-\format{A data frame with 699 observations on the following 11 variables.
+\format{
+A data frame with 699 observations on the following 11 variables.
 \itemize{
 \item \code{sample_code_number}: id number
 \item \code{clump_thickness}: 1 - 10
@@ -16,7 +17,8 @@
 \item \code{normal_nucleoli}: 1 - 10
 \item \code{mitoses}: 1 - 10
 \item \code{class}: 2 for benign, 4 for malignant
-}}
+}
+}
 \source{
 Dr. William H. Wolberg - Physician
 University of Wisconsin Hospitals

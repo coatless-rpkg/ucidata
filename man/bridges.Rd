@@ -4,7 +4,8 @@
 \name{bridges}
 \alias{bridges}
 \title{Pittsburgh Bridges Data Set}
-\format{A data frame with 108 observations on the following 13 variables.
+\format{
+A data frame with 108 observations on the following 13 variables.
 \itemize{
 \item \code{identif}
 \itemize{
@@ -58,7 +59,8 @@
 \itemize{
 \item WOOD, SUSPEN, SIMPLE-T, ARCH, CANTILEV, CONT-T
 }
-}}
+}
+}
 \source{
 Yoram Reich & Steven J. Fenves
 Department of Civil Engineering

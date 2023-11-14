@@ -4,7 +4,8 @@
 \name{forest_fires}
 \alias{forest_fires}
 \title{Forest Fires Data Set}
-\format{A data frame with 517 observations on the following 13 variables.
+\format{
+A data frame with 517 observations on the following 13 variables.
 \itemize{
 \item \code{X}
 \itemize{
@@ -44,7 +45,7 @@
 }
 \item \code{RH}
 \itemize{
-\item relative humidity in %: 15.0 to 100
+\item relative humidity in \%: 15.0 to 100
 }
 \item \code{wind}
 \itemize{
@@ -58,7 +59,8 @@
 \itemize{
 \item the burned area of the forest (in ha): 0.00 to 1090.84#'
 }
-}}
+}
+}
 \source{
 Paulo Cortez, pcortez '@' dsi.uminho.pt, Department of Information Systems, University of Minho, Portugal.
 Aníbal Morais, araimorais '@' gmail.com, Department of Information Systems, University of Minho, Portugal.

@@ -4,7 +4,8 @@
 \name{car_eval}
 \alias{car_eval}
 \title{Car Evaluation Data Set}
-\format{A data frame with 1728 observations on the following 7 variables.
+\format{
+A data frame with 1728 observations on the following 7 variables.
 \itemize{
 \item \code{buying}
 \itemize{
@@ -34,7 +35,8 @@
 \itemize{
 \item unacc, acc, good, vgood
 }
-}}
+}
+}
 \source{
 Marko Bohanec (marko.bohanec '@' ijs.si)
 Blaz Zupan (blaz.zupan '@' ijs.si)

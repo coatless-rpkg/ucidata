@@ -4,7 +4,8 @@
 \name{autompg}
 \alias{autompg}
 \title{Autompg Data Set}
-\format{A data frame with 398 observations on the following 9 variables.
+\format{
+A data frame with 398 observations on the following 9 variables.
 \itemize{
 \item \code{mpg}: continuous
 \item \code{cylinders}:     multi-valued discrete
@@ -15,7 +16,8 @@
 \item \code{model_year}:    multi-valued discrete
 \item \code{origin}:        multi-valued discrete
 \item \code{car_name}:      string (unique for each instance)
-}}
+}
+}
 \source{
 This dataset was taken from the StatLib library which is
 maintained at Carnegie Mellon University. The dataset was

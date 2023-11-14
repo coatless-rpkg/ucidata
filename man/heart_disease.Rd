@@ -7,7 +7,8 @@
 \alias{heart_disease_va}
 \alias{heart_disease_ch}
 \title{Heart Disease Processed Data Sets}
-\format{Four \code{data.frames} with a varying number of observations that contain
+\format{
+Four \code{data.frames} with a varying number of observations that contain
 the following 14 variables.
 \itemize{
 \item \code{age}: age in years
@@ -46,10 +47,17 @@ the following 14 variables.
 }
 \item \code{num}: diagnosis of heart disease (angiographic disease status)
 \itemize{
-\item Value 0: < 50% diameter narrowing
-\item Value 1: > 50% diameter narrowing
+\item Value 0: < 50\% diameter narrowing
+\item Value 1: > 50\% diameter narrowing
 }
-}}
+}
+
+An object of class \code{data.frame} with 294 rows and 14 columns.
+
+An object of class \code{data.frame} with 200 rows and 14 columns.
+
+An object of class \code{data.frame} with 123 rows and 14 columns.
+}
 \source{
 \enumerate{
 \item Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D.

@@ -4,7 +4,8 @@
 \name{abalone}
 \alias{abalone}
 \title{Abalone Data Set}
-\format{A data frame with 4177 observations on the following 9 variables.
+\format{
+A data frame with 4177 observations on the following 9 variables.
 \itemize{
 \item \code{sex}: Factor
 \itemize{
@@ -42,7 +43,8 @@
 \itemize{
 \item Adding 1.5 gives the age in years
 }
-}}
+}
+}
 \source{
 Marine Resources Division
 Marine Research Laboratories - Taroona

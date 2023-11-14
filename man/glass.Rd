@@ -4,7 +4,8 @@
 \name{glass}
 \alias{glass}
 \title{Glass Identification Data Set}
-\format{A data frame with 214 observations on the following 11 variables.
+\format{
+A data frame with 214 observations on the following 11 variables.
 \itemize{
 \item \code{ID}: 1 to 214
 \item \code{RI}: refractive index
@@ -26,7 +27,8 @@
 \item 6: tableware
 \item 7: headlamps
 }
-}}
+}
+}
 \source{
 B. German
 Central Research Establishment
