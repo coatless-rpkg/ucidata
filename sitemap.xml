@@ -1,60 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>http://r-pkg.thecoatlessprofessor.com/ucidata/404.html</loc>
-  </url>
-  <url>
-    <loc>http://r-pkg.thecoatlessprofessor.com/ucidata/authors.html</loc>
-  </url>
-  <url>
-    <loc>http://r-pkg.thecoatlessprofessor.com/ucidata/index.html</loc>
-  </url>
-  <url>
-    <loc>http://r-pkg.thecoatlessprofessor.com/ucidata/news/index.html</loc>
-  </url>
-  <url>
-    <loc>http://r-pkg.thecoatlessprofessor.com/ucidata/reference/abalone.html</loc>
-  </url>
-  <url>
-    <loc>http://r-pkg.thecoatlessprofessor.com/ucidata/reference/adult.html</loc>
-  </url>
-  <url>
-    <loc>http://r-pkg.thecoatlessprofessor.com/ucidata/reference/autoimports.html</loc>
-  </url>
-  <url>
-    <loc>http://r-pkg.thecoatlessprofessor.com/ucidata/reference/autompg.html</loc>
-  </url>
-  <url>
-    <loc>http://r-pkg.thecoatlessprofessor.com/ucidata/reference/bcw_original.html</loc>
-  </url>
-  <url>
-    <loc>http://r-pkg.thecoatlessprofessor.com/ucidata/reference/bike_sharing_daily.html</loc>
-  </url>
-  <url>
-    <loc>http://r-pkg.thecoatlessprofessor.com/ucidata/reference/bridges.html</loc>
-  </url>
-  <url>
-    <loc>http://r-pkg.thecoatlessprofessor.com/ucidata/reference/car_eval.html</loc>
-  </url>
-  <url>
-    <loc>http://r-pkg.thecoatlessprofessor.com/ucidata/reference/forest_fires.html</loc>
-  </url>
-  <url>
-    <loc>http://r-pkg.thecoatlessprofessor.com/ucidata/reference/glass.html</loc>
-  </url>
-  <url>
-    <loc>http://r-pkg.thecoatlessprofessor.com/ucidata/reference/heart_disease.html</loc>
-  </url>
-  <url>
-    <loc>http://r-pkg.thecoatlessprofessor.com/ucidata/reference/hepatitis.html</loc>
-  </url>
-  <url>
-    <loc>http://r-pkg.thecoatlessprofessor.com/ucidata/reference/index.html</loc>
-  </url>
-  <url>
-    <loc>http://r-pkg.thecoatlessprofessor.com/ucidata/reference/ucidata-package.html</loc>
-  </url>
-  <url>
-    <loc>http://r-pkg.thecoatlessprofessor.com/ucidata/reference/wine.html</loc>
-  </url>
+<urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url><loc>http://r-pkg.thecoatlessprofessor.com/ucidata/404.html</loc></url>
+<url><loc>http://r-pkg.thecoatlessprofessor.com/ucidata/authors.html</loc></url>
+<url><loc>http://r-pkg.thecoatlessprofessor.com/ucidata/index.html</loc></url>
+<url><loc>http://r-pkg.thecoatlessprofessor.com/ucidata/news/index.html</loc></url>
+<url><loc>http://r-pkg.thecoatlessprofessor.com/ucidata/reference/abalone.html</loc></url>
+<url><loc>http://r-pkg.thecoatlessprofessor.com/ucidata/reference/adult.html</loc></url>
+<url><loc>http://r-pkg.thecoatlessprofessor.com/ucidata/reference/autoimports.html</loc></url>
+<url><loc>http://r-pkg.thecoatlessprofessor.com/ucidata/reference/autompg.html</loc></url>
+<url><loc>http://r-pkg.thecoatlessprofessor.com/ucidata/reference/bcw_original.html</loc></url>
+<url><loc>http://r-pkg.thecoatlessprofessor.com/ucidata/reference/bike_sharing_daily.html</loc></url>
+<url><loc>http://r-pkg.thecoatlessprofessor.com/ucidata/reference/bridges.html</loc></url>
+<url><loc>http://r-pkg.thecoatlessprofessor.com/ucidata/reference/car_eval.html</loc></url>
+<url><loc>http://r-pkg.thecoatlessprofessor.com/ucidata/reference/forest_fires.html</loc></url>
+<url><loc>http://r-pkg.thecoatlessprofessor.com/ucidata/reference/glass.html</loc></url>
+<url><loc>http://r-pkg.thecoatlessprofessor.com/ucidata/reference/heart_disease.html</loc></url>
+<url><loc>http://r-pkg.thecoatlessprofessor.com/ucidata/reference/hepatitis.html</loc></url>
+<url><loc>http://r-pkg.thecoatlessprofessor.com/ucidata/reference/index.html</loc></url>
+<url><loc>http://r-pkg.thecoatlessprofessor.com/ucidata/reference/ucidata-package.html</loc></url>
+<url><loc>http://r-pkg.thecoatlessprofessor.com/ucidata/reference/wine.html</loc></url>
 </urlset>
+
