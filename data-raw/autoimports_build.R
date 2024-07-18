@@ -44,6 +44,7 @@ var_names_safe = gsub("-", "_", var_names)
 
 colnames(autoimports) = var_names_safe
 
-devtools::use_data(autoimports, overwrite = TRUE)
+usethis::use_data(autoimports, overwrite = TRUE)
+
 
 

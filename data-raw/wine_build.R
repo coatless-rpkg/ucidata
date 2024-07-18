@@ -6,8 +6,8 @@ red_wine_url   = "http://archive.ics.uci.edu/ml/machine-learning-databases/wine-
 white_wine_url = "http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv"
 
 # Note the .csv uses a `;` as the separater. Not `,`
-red_wine_data   = read.csv(red_wine_url, sep = ";")
-white_wine_data = read.csv(white_wine_url, sep = ";")
+red_wine_data   = read.csv(red_wine_url, sep = ";", header = TRUE)
+white_wine_data = read.csv(white_wine_url, sep = ";", header = TRUE)
 
 # Load in Red vs. White Data
 red_wine_data$color   = "Red"
@@ -22,4 +22,4 @@ wine$color = as.factor(wine$color)
 # Remove periods
 colnames(wine) = gsub("\\.", "_", colnames(wine))
 
-devtools::use_data(wine)
+usethis::use_data(wine, overwrite = TRUE)

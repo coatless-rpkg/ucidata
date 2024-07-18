@@ -7,26 +7,28 @@ download.file("http://archive.ics.uci.edu/ml/machine-learning-databases/00275/Bi
 
 # Unzip and load bike sharing data into R
 # Note, data has a header in it!
-bike_sharing_daily = read.csv(unz("data-raw/Bike-Sharing-Dataset.zip",
-                                  "day.csv"),
-                              colClasses = c("character",  # instant
-                                             "Date",       # dteday
-                                             "factor",     # season
-                                             "factor",     # yr
-                                             "factor",     # mnth
-                                             "factor",     # holiday
-                                             "factor",     # weekday
-                                             "factor",     # workingday
-                                             "factor",     # weathersit
-                                             "numeric",    # temp
-                                             "numeric",    # atemp
-                                             "numeric",    # hum
-                                             "numeric",    # windspeed
-                                             "integer",    # casual
-                                             "integer",    # registered
-                                             "integer"     # cnt
-                                             )
-                               )
+bike_sharing_daily = read.csv(
+  unz("data-raw/Bike-Sharing-Dataset.zip", "day.csv"),
+  header = TRUE,
+  colClasses = c(
+    "character",  # instant
+    "Date",       # dteday
+    "factor",     # season
+    "factor",     # yr
+    "factor",     # mnth
+    "factor",     # holiday
+    "factor",     # weekday
+    "factor",     # workingday
+    "factor",     # weathersit
+    "numeric",    # temp
+    "numeric",    # atemp
+    "numeric",    # hum
+    "numeric",    # windspeed
+    "integer",    # casual
+    "integer",    # registered
+    "integer"     # cnt
+  )
+)
 
 # Improve factor labels
 bike_sharing_daily = within(bike_sharing_daily, {
@@ -52,7 +54,7 @@ bike_sharing_daily = within(bike_sharing_daily, {
 # })
 
 # Write the bike_sharing_daily dataset
-devtools::use_data(bike_sharing_daily, overwrite = TRUE)
+usethis::use_data(bike_sharing_daily, overwrite = TRUE)
 
 # Remove the zip + csv after read in.
 file.remove("data-raw/Bike-Sharing-Dataset.zip")

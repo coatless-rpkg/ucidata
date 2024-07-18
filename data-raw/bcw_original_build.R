@@ -28,4 +28,4 @@ bcw_original = breast_cancer_wis_data
 
 rm(list="breast_cancer_wis_data")
 
-devtools::use_data(bcw_original, overwrite = TRUE)
+usethis::use_data(bcw_original, overwrite = TRUE)
