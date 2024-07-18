@@ -36,4 +36,4 @@ glass = within(glass, {
 })
 
 # Save dataset
-devtools::use_data(glass, overwrite = TRUE)
+usethis::use_data(glass, overwrite = TRUE)

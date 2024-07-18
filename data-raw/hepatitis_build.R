@@ -3,8 +3,10 @@
 
 url_hepatitis = "http://archive.ics.uci.edu/ml/machine-learning-databases/hepatitis/hepatitis.data"
 
-hepatitis = read.csv(url_hepatitis,
-                   header = FALSE, na.strings = "?")
+hepatitis = read.csv(
+  url_hepatitis,
+  header = FALSE, na.strings = "?"
+)
 
 # Columns taken verbatim from ML page
 # Regex search with: [0-9]{1,2}\. (.*):.*
@@ -46,7 +48,7 @@ hepatitis = within(hepatitis,{
   sex   = factor(sex, labels = c("Male", "Female"))
 })
 
-devtools::use_data(hepatitis, overwrite = TRUE)
+usethis::use_data(hepatitis, overwrite = TRUE)
 
 ## output colnames
 cat(paste0(colnames(hepatitis),"\n"), sep="")

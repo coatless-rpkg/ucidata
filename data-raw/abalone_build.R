@@ -16,4 +16,4 @@ colnames(abalone) = c("sex",
                       "rings")
 
 # Save dataset
-devtools::use_data(abalone)
+usethis::use_data(abalone, overwrite = TRUE)

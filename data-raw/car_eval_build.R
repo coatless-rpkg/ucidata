@@ -13,4 +13,4 @@ colnames(car_eval) = c("buying",
                        "safety",
                        "class_value")
 
-devtools::use_data(car_eval, overwrite = TRUE)
+usethis::use_data(car_eval, overwrite = TRUE)

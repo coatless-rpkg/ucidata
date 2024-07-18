@@ -5,4 +5,4 @@ url_forest_fires = "https://archive.ics.uci.edu/ml/machine-learning-databases/fo
 
 forest_fires = read.csv(url_forest_fires, header = TRUE)
 
-devtools::use_data(forest_fires, overwrite = TRUE)
+usethis::use_data(forest_fires, overwrite = TRUE)

@@ -33,5 +33,5 @@ bridges = within(bridges, {
   lanes = factor(lanes)
 })
 
-devtools::use_data(bridges, overwrite = TRUE)
+usethis::use_data(bridges, overwrite = TRUE)
 
