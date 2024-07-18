@@ -2,7 +2,7 @@
 # Adult data https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data
 
 adult = read.csv('https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data',
-                 na.strings = "?", fill = F, strip.white = T)
+                 na.strings = "?", fill = FALSE, strip.white = TRUE, header = FALSE)
 
 colnames(adult) = c('age',
                     'workclass',
@@ -20,4 +20,4 @@ colnames(adult) = c('age',
                     'native_country',
                     'income')
 
-devtools::use_data(adult, overwrite = TRUE)
+usethis::use_data(adult, overwrite = TRUE)
