@@ -13,6 +13,15 @@ from the [Machine Learning Library at UC
 Irvine](https://archive.ics.uci.edu/ml/). These data sets have been
 cleaned up and provide documentation via *R*’s help system.
 
+> \[!NOTE\]
+>
+> Want to easily access data sets not included in this package?
+>
+> Check out the
+> [`{ucimlrepo}`](https://github.com/coatless-rpkg/ucimlrepo) R package!
+> The package provides an interface to download and automatically load
+> data sets from the UC Irvine Machine Learning Repository.
+
 ## Installation
 
 You can install `ucidata` from github with:
